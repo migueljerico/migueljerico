@@ -8,9 +8,9 @@
 
 ---
 
-Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo esa experiencia en gestión, resolución de problemas y toma de decisiones hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
+Llevo **15 años** liderando equipos y operaciones en el sector teleoperador (Covisian España), y ahora estoy reconvirtiendo esa experiencia en gestión, resolución de problemas y toma de decisiones hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
 
-Recientemente, me he formado en Big Data, Power BI, Python, R e IA Generativa con proyectos reales que voy documentando aquí en GitHub.
+Recientemente, he finalizado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación en Big Data, Power BI, Python, R e IA Generativa con proyectos reales que he ido documentando aquí en GitHub.
 
 🔭 Ahora mismo estoy centrado en dashboards de Power BI, automatizaciones con IA y en construir un portfolio sólido que respalde mi transición profesional.
 
@@ -62,8 +62,8 @@ Recientemente, me he formado en Big Data, Power BI, Python, R e IA Generativa co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
