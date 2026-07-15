@@ -8,7 +8,7 @@
 
 ---
 
-Llevo **15 años** liderando equipos y operaciones en el sector teleoperador (Covisian España), y ahora estoy reconvirtiendo esa experiencia en gestión, resolución de problemas y toma de decisiones hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
+Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo esa experiencia en gestión, resolución de problemas y toma de decisiones hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
 
 Recientemente, he finalizado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación en Big Data, Power BI, Python, R e IA Generativa con proyectos reales que he ido documentando aquí en GitHub.
 
