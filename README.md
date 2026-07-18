@@ -4,79 +4,121 @@
 
 📍 Zaragoza, España&nbsp;&nbsp;|&nbsp;&nbsp;🔄 De la Operación de Equipos al Análisis de Datos & IA
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/migueljerico)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljerico)
+
 </div>
 
 ---
 
-Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo esa experiencia en gestión, resolución de problemas y toma de decisiones hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
+### 📝 Sobre mí
 
-Recientemente, he finalizado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación en Big Data, Power BI, Python, R e IA Generativa con proyectos reales que he ido documentando aquí en GitHub.
+Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo esa sólida experiencia en gestión de personas, resolución de problemas complejos y toma de decisiones estratégicas hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
 
-🔭 Ahora mismo estoy centrado en dashboards de Power BI, automatizaciones con IA y en construir un portfolio sólido que respalde mi transición profesional.
+Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación avanzada en Big Data, Power BI, Python, R e IA Generativa con el desarrollo de proyectos reales y prácticos que comparto en este espacio.
+
+> 🔭 **Mi enfoque actual:** Diseño de dashboards analíticos de alto impacto en Power BI, desarrollo de automatizaciones inteligentes con IA para optimización de procesos y la consolidación de un portfolio técnico robusto que respalde mi transición profesional.
 
 ---
 
-### 🛠️ Stack principal — Datos & IA
+### 🚀 Funcionalidades y Áreas de Enfoque
 
-<div align="center">
+*   **Business Intelligence & Analítica Visual:** Modelado de datos (ETL), creación de métricas avanzadas en DAX y diseño de dashboards interactivos que transforman datos en decisiones en Power BI y Google Looker Studio.
+*   **Automatización de Procesos (No-Code/Low-Code):** Construcción de flujos automatizados que integran APIs, procesamiento de lenguaje natural y herramientas de mensajería (Telegram, Google Sheets, Make.com).
+*   **Inteligencia Artificial & Agentes:** Implementación de asistentes virtuales interactivos y chatbots informativos personalizados utilizando LLMs como Gemini y Groq.
+*   **Desarrollo Full-Stack Moderno:** Creación de plataformas educativas e interfaces con arquitecturas modernas basadas en React y servicios en la nube.
+*   **Gobernanza y Cumplimiento:** Análisis del marco normativo (RGPD, LOPDGDD y AI Act) aplicado al despliegue de soluciones tecnológicas seguras y éticas.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Data & Business Intelligence**
+<div align="left">
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+#### **Desarrollo Web & Cloud**
+<div align="left">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
-### 🧩 También trabajo con
+#### **Automatización & IA Generativa**
+<div align="left">
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
 ---
 
-### 📌 Proyectos destacados
+### 📂 Estructura de Proyectos Destacados
 
-- 📊 **[powerbi-dashboard-urban-coffee](https://github.com/migueljerico/powerbi-dashboard-urban-coffee)** — Dashboard de Power BI con ETL, modelado y medidas DAX.
-- 📈 **[data-studio-dashboard-urban-coffee](https://github.com/migueljerico/data-studio-dashboard-urban-coffee)** — Misma analítica llevada a Google Data Studio.
-- 🤖 **[automatizacion-noticias-make](https://github.com/migueljerico/automatizacion-noticias-make)** — Pipeline de noticias de IA con revisión humana vía Google Sheets y envío a Telegram.
-- 💬 **[zgz-info-chatbot](https://github.com/migueljerico/zgz-info-chatbot)** — Chatbot informativo sobre Zaragoza.
-- 🎓 **[estudio-360-smart-learn](https://github.com/migueljerico/estudio-360-smart-learn)** — Plataforma educativa con React 19, TanStack Start y Supabase.
-- 🧠 **[github-ai-assistant](https://github.com/migueljerico/github-ai-assistant)** — Asistente con OAuth de GitHub y doble proveedor de IA (Groq / Gemini), desplegado en Cloud Run.
-- 📘 **[notebooklm-ia-generativa](https://github.com/migueljerico/notebooklm-ia-generativa)** — Exploración de IA generativa con NotebookLM.
-- 🔐 **[manual-ia-rgpd-ai-act](https://github.com/migueljerico/manual-ia-rgpd-ai-act)** — Manual sobre RGPD, LOPDGDD y AI Act aplicado a un caso real de ciberseguridad.
+Mi portfolio está organizado en diferentes categorías clave que reflejan mi ecosistema de aprendizaje y aplicación técnica:
 
-*(Repo completo de proyectos → mi [perfil de GitHub](https://github.com/migueljerico?tab=repositories))*
+| Categoría | Proyecto | Descripción | Stack Principal |
+| :--- | :--- | :--- | :--- |
+| **Business Intelligence** | 📊 [urban-coffee-pbi](https://github.com/migueljerico/powerbi-dashboard-urban-coffee) | Dashboard analítico interactivo con procesos ETL de limpieza y modelado dimensional. | Power BI, DAX |
+| **Business Intelligence** | 📈 [urban-coffee-studio](https://github.com/migueljerico/data-studio-dashboard-urban-coffee) | Réplica analítica avanzada orientada a la web para toma de decisiones corporativas. | Google Data Studio |
+| **Automatización & IA** | 🤖 [automatizacion-noticias](https://github.com/migueljerico/automatizacion-noticias-make) | Pipeline de curación de contenidos IA con aprobación en Sheets y publicación en Telegram. | Make.com, Telegram API |
+| **Inteligencia Artificial** | 💬 [zgz-chatbot](https://github.com/migueljerico/zgz-info-chatbot) | Asistente conversacional especializado en ofrecer información local sobre Zaragoza. | Python, Dialogflow / NLP |
+| **Desarrollo Web / Cloud** | 🎓 [smart-learn-360](https://github.com/migueljerico/estudio-360-smart-learn) | Plataforma de aprendizaje con renderizado optimizado y backend escalable. | React 19, TanStack, Supabase |
+| **Asistentes & Cloud** | 🧠 [github-ai-assistant](https://github.com/migueljerico/github-ai-assistant) | Asistente de código con soporte multi-proveedor desplegado de forma contenerizada. | Groq, Gemini, Cloud Run, OAuth |
+| **Investigación & Cumplimiento** | 📘 [notebooklm-ia](https://github.com/migueljerico/notebooklm-ia-generativa) | Análisis y síntesis de conocimiento complejo utilizando tecnologías de IA Generativa. | NotebookLM |
+| **Investigación & Cumplimiento** | 🔐 [manual-ia-rgpd](https://github.com/migueljerico/manual-ia-rgpd-ai-act) | Guía práctica de cumplimiento normativo europeo aplicado a la ciberseguridad corporativa. | RGPD, AI Act, Compliance |
+
+*(Explora la lista completa de mis contribuciones en mi [perfil de repositorios](https://github.com/migueljerico?tab=repositories))*
 
 ---
 
-### 📊 Estadísticas
+### ⚙️ Instalación y Uso de los Proyectos
+
+Para experimentar de manera local con cualquiera de los proyectos basados en código:
+
+1.  **Clona el repositorio que desees inspeccionar:**
+    ```bash
+    git clone https://github.com/migueljerico/NOMBRE-DEL-PROYECTO.git
+    ```
+2.  **Accede al directorio del proyecto:**
+    ```bash
+    cd NOMBRE-DEL-PROYECTO
+    ```
+3.  **Instala las dependencias necesarias** (para proyectos basados en Node.js o Python):
+    ```bash
+    # Si es Node.js
+    npm install
+    
+    # Si es Python (creando entorno virtual recomendado)
+    python -m venv venv
+    source venv/bin/activate  # En Windows: venv\Scripts\activate
+    pip install -r requirements.txt
+    ```
+4.  **Ejecución:** Consulta el archivo `README.md` específico de cada repositorio para obtener las credenciales de prueba, variables de entorno requeridas (`.env`) y comandos de inicio.
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de Miguel en GitHub" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados por Miguel" />
 
 </div>
 
 ---
-
-### 🤝 Conectemos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljerico)
-
-</div>
 
 <div align="center">
 
