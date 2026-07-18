@@ -24,7 +24,7 @@ Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e I
 
 ### 🚀 Áreas de Enfoque
 
-*   **📊 Business Intelligence & Analítica Visual:** Modelado de datos (ETL), creación de métricas avanzadas en DAX y diseño de dashboards interactivos que transforman datos en decisiones en Power BI y Google Looker Studio.
+*   **📊 Business Intelligence & Analítica Visual:** Modelado de datos (ETL), creación de métricas avanzadas en DAX y diseño de dashboards interactivos que transforman datos en decisiones en Power BI y Google Data Studio.
 *   **⚙️ Automatización de Procesos (No-Code/Low-Code):** Construcción de flujos automatizados que integran APIs, procesamiento de lenguaje natural y herramientas de mensajería (Telegram, Google Sheets, Make.com).
 *   **🤖 Inteligencia Artificial & Agentes:** Implementación de asistentes virtuales interactivos y chatbots informativos personalizados utilizando LLMs como Gemini y Groq.
 *   **💻 Desarrollo Full-Stack Moderno:** Creación de plataformas educativas e interfaces con arquitecturas modernas basadas en React y servicios en la nube.
