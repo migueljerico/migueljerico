@@ -4,6 +4,7 @@
 
 📍 Zaragoza, España&nbsp;&nbsp;|&nbsp;&nbsp;🔄 De la Operación de Equipos al Análisis de Datos & IA
 
+[![Base44](https://img.shields.io/badge/Base44-0F172A?style=for-the-badge)](https://jerico-data-flow.base44.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljerico)
 
