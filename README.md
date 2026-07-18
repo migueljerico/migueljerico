@@ -22,19 +22,19 @@ Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e I
 
 ---
 
-### 🚀 Funcionalidades y Áreas de Enfoque
+### 🚀 Áreas de Enfoque
 
-*   **Business Intelligence & Analítica Visual:** Modelado de datos (ETL), creación de métricas avanzadas en DAX y diseño de dashboards interactivos que transforman datos en decisiones en Power BI y Google Looker Studio.
-*   **Automatización de Procesos (No-Code/Low-Code):** Construcción de flujos automatizados que integran APIs, procesamiento de lenguaje natural y herramientas de mensajería (Telegram, Google Sheets, Make.com).
-*   **Inteligencia Artificial & Agentes:** Implementación de asistentes virtuales interactivos y chatbots informativos personalizados utilizando LLMs como Gemini y Groq.
-*   **Desarrollo Full-Stack Moderno:** Creación de plataformas educativas e interfaces con arquitecturas modernas basadas en React y servicios en la nube.
-*   **Gobernanza y Cumplimiento:** Análisis del marco normativo (RGPD, LOPDGDD y AI Act) aplicado al despliegue de soluciones tecnológicas seguras y éticas.
+*   **📊 Business Intelligence & Analítica Visual:** Modelado de datos (ETL), creación de métricas avanzadas en DAX y diseño de dashboards interactivos que transforman datos en decisiones en Power BI y Google Looker Studio.
+*   **⚙️ Automatización de Procesos (No-Code/Low-Code):** Construcción de flujos automatizados que integran APIs, procesamiento de lenguaje natural y herramientas de mensajería (Telegram, Google Sheets, Make.com).
+*   **🤖 Inteligencia Artificial & Agentes:** Implementación de asistentes virtuales interactivos y chatbots informativos personalizados utilizando LLMs como Gemini y Groq.
+*   **💻 Desarrollo Full-Stack Moderno:** Creación de plataformas educativas e interfaces con arquitecturas modernas basadas en React y servicios en la nube.
+*   **🔐 Gobernanza y Cumplimiento:** Análisis del marco normativo (RGPD, LOPDGDD y AI Act) aplicado al despliegue de soluciones tecnológicas seguras y éticas.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-#### **Data & Business Intelligence**
+#### **📈 Data & Business Intelligence**
 <div align="left">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -45,7 +45,7 @@ Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e I
 
 </div>
 
-#### **Desarrollo Web & Cloud**
+#### **🌐 Desarrollo Web & Cloud**
 <div align="left">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -55,7 +55,7 @@ Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e I
 
 </div>
 
-#### **Automatización & IA Generativa**
+#### **🔄 Automatización & IA Generativa**
 <div align="left">
 
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
@@ -65,7 +65,7 @@ Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e I
 
 ---
 
-### 📂 Estructura de Proyectos Destacados
+### 📂 Proyectos Destacados
 
 Mi portfolio está organizado en diferentes categorías clave que reflejan mi ecosistema de aprendizaje y aplicación técnica:
 
@@ -80,23 +80,23 @@ Mi portfolio está organizado en diferentes categorías clave que reflejan mi ec
 | **Investigación & Cumplimiento** | 📘 [notebooklm-ia](https://github.com/migueljerico/notebooklm-ia-generativa) | Análisis y síntesis de conocimiento complejo utilizando tecnologías de IA Generativa. | NotebookLM |
 | **Investigación & Cumplimiento** | 🔐 [manual-ia-rgpd](https://github.com/migueljerico/manual-ia-rgpd-ai-act) | Guía práctica de cumplimiento normativo europeo aplicado a la ciberseguridad corporativa. | RGPD, AI Act, Compliance |
 
-*(Explora la lista completa de mis contribuciones en mi [perfil de repositorios](https://github.com/migueljerico?tab=repositories))*
+> 💡 *(Explora la lista completa de mis contribuciones en mi [perfil de repositorios](https://github.com/migueljerico?tab=repositories))*
 
 ---
 
-### ⚙️ Instalación y Uso de los Proyectos
+### ⚙️ Instalación y Uso Local
 
 Para experimentar de manera local con cualquiera de los proyectos basados en código:
 
-1.  **Clona el repositorio que desees inspeccionar:**
+1.  **Clonar el repositorio:**
     ```bash
     git clone https://github.com/migueljerico/NOMBRE-DEL-PROYECTO.git
     ```
-2.  **Accede al directorio del proyecto:**
+2.  **Acceder al directorio del proyecto:**
     ```bash
     cd NOMBRE-DEL-PROYECTO
     ```
-3.  **Instala las dependencias necesarias** (para proyectos basados en Node.js o Python):
+3.  **Instalar dependencias** (para proyectos basados en Node.js o Python):
     ```bash
     # Si es Node.js
     npm install
@@ -106,7 +106,9 @@ Para experimentar de manera local con cualquiera de los proyectos basados en có
     source venv/bin/activate  # En Windows: venv\Scripts\activate
     pip install -r requirements.txt
     ```
-4.  **Ejecución:** Consulta el archivo `README.md` específico de cada repositorio para obtener las credenciales de prueba, variables de entorno requeridas (`.env`) y comandos de inicio.
+4.  **Ejecución y configuración:** Consulta el archivo `README.md` específico de cada repositorio para obtener las credenciales de prueba, variables de entorno requeridas (`.env`) y comandos de inicio.
+
+> ⚠️ **Nota:** Los proyectos basados en Power BI, Google Data Studio o Make.com no requieren instalación local; se ejecutan directamente desde sus respectivas plataformas cloud.
 
 ---
 
@@ -118,6 +120,16 @@ Para experimentar de manera local con cualquiera de los proyectos basados en có
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados por Miguel" />
 
 </div>
+
+---
+
+### 📫 Contacto
+
+¿Interesado en colaborar o conversar sobre un proyecto? No dudes en conectar conmigo:
+
+- 💼 **LinkedIn:** [miguel-jericó-díaz](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197)
+- 🌐 **Portfolio:** [jerico-data-flow.base44.app](https://jerico-data-flow.base44.app/)
+- 🐙 **GitHub:** [@migueljerico](https://github.com/migueljerico)
 
 ---
 
