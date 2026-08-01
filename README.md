@@ -1,140 +1,151 @@
-<div align="center">
+# 📊 Power BI Dashboard - Mercadona
 
-# ¡Hola! Soy Miguel 👋
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power%20Query-M_Language-8A2BE2?style=for-the-badge) ![CSV](https://img.shields.io/badge/CSV-UTF--8-4CAF50?style=for-the-badge&logo=files&logoColor=white) ![Estado](https://img.shields.io/badge/Estado-Publicado-green?style=for-the-badge) ![Licencia](https://img.shields.io/badge/Licencia-GPL--3.0-blue?style=for-the-badge)
 
-📍 Zaragoza, España&nbsp;&nbsp;|&nbsp;&nbsp;🔄 De la Operación de Equipos al Análisis de Datos & IA
-
-[![Base44](https://img.shields.io/badge/Base44-0F172A?style=for-the-badge)](https://jerico-data-flow.base44.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljerico)
-
-</div>
+*Análisis inteligente del catálogo de productos de Mercadona mediante Business Intelligence para optimizar decisiones comerciales y de pricing.*
 
 ---
 
-### 📝 Sobre mí
+## 🔗 Acceso / Demo
+El proyecto se distribuye como archivo `.pbix` (Power BI Desktop) y plantilla `.pbit`. Requiere **Power BI Desktop** (versión más reciente) para su visualización y análisis interactivo. Para acceder al código fuente y a los artefactos del proyecto, clone el repositorio desde GitHub.
 
-Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo esa sólida experiencia en gestión de personas, resolución de problemas complejos y toma de decisiones estratégicas hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
+## 📋 Descripción
+Este proyecto consiste en el desarrollo de un cuadro de mando (dashboard) profesional utilizando **Microsoft Power BI**, diseñado para analizar de manera visual y estructurada el catálogo de productos de Mercadona. El objetivo principal es transformar datos brutos del archivo `products_macro.csv` en información accionable para la dirección, permitiendo monitorizar la distribución de precios, el peso de las categorías de productos y el impacto de la estrategia de "Productos Destacados" o promociones.
 
-Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación avanzada en Big Data, Power BI, Python, R e IA Generativa con el desarrollo de proyectos reales y prácticos que comparto en este espacio.
+El dashboard resuelve la necesidad de analizar KPIs críticos del catálogo (precio medio, penetración de promociones, concentración por categorías) eliminando la dependencia de hojas de cálculo estáticas y facilitando una visión dinámica, interactiva y accesible del negocio. La herramienta está orientada a analistas de datos, equipos de marketing, responsables de pricing y, en general, a cualquier perfil interesado en retail intelligence aplicado a una de las cadenas de distribución más relevantes del mercado español.
 
-> 🔭 **Mi enfoque actual:** Diseño de dashboards analíticos de alto impacto en Power BI, desarrollo de automatizaciones inteligentes con IA para optimización de procesos y la consolidación de un portfolio técnico robusto que respalde mi transición profesional.
+El flujo de trabajo abarca desde una fase ETL robusta en Power Query (con limpieza regional de decimales punto→coma), pasando por un modelo semántico VertiPaq optimizado, hasta una capa de medidas DAX personalizadas que alimentan visualizaciones interactivas con enfoque en accesibilidad y UX.
+
+## ✨ Funcionalidades
+
+| Funcionalidad | Descripción |
+| :--- | :--- |
+| **Análisis de Precios** | Visualización del precio medio del catálogo y precio medio con descuento mediante medidas DAX (`AVERAGE(products[price])`). |
+| **Segmentación por Categorías** | Top 10 categorías más caras por precio medio en barras horizontales y distribución de volumen (Top 5) en gráfico de anillos. |
+| **KPIs de Promociones** | Indicador **% Productos Destacados** calculado vía DAX sobre la columna `En_Promocion` (DIVIDE + CALCULATE + COUNTROWS). |
+| **Filtros Interactivos (Slicers)** | Panel lateral para filtrar por periodos, categorías y estado promocional (`En_Promocion` = "Sí"/"No"). |
+| **Cross-filtering Nativo** | Interacción entre gráficos: al seleccionar una categoría, el resto de visuales se filtran automáticamente. |
+| **Renderizado de Imágenes** | Tabla de detalle con imágenes dinámicas de productos vía URL (`main_image_url` categorizada como *Image URL*). |
+| **Tooltips Enriquecidos** | Información contextual al pasar cursor: precio, descuento, categoría, subtítulo. |
+| **Accesibilidad Visual** | Paleta corporativa de alto contraste, etiquetas de datos con categoría + % (no solo color). |
+| **Modelo Optimizado** | Reducción de dimensionalidad eliminando `secondary_image_url` para mejorar el peso del archivo `.pbix`. |
+| **Doble Página Analítica** | Página 1 (Visión General con KPIs) y Página 2 (Detalle y exploración granular). |
+
+## ⚙️ Instalación
+
+1. **Instalar Power BI Desktop** (versión más reciente):
+   ```bash
+   # Windows (via winget)
+   winget install Microsoft.PowerBIDesktop
+   
+   # macOS: No soportado oficialmente, requiere máquina virtual Windows o Power BI Service web
+   
+   # Descarga directa desde:
+   # https://powerbi.microsoft.com/desktop/
+   ```
+
+2. **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/migueljerico/powerbi-dashboard-mercadona.git
+   cd powerbi-dashboard-mercadona
+   ```
+
+3. **Verificar estructura de archivos**:
+   ```bash
+   ls -la
+   # Debe incluir: README.md, MANUAL_TECNICO.md, LICENSE, docs/
+   # Y los artefactos Power BI (.pbix / .pbit) junto al CSV
+   ```
+
+4. **Abrir el archivo principal**:
+   ```bash
+   # Opción A: Archivo completo con datos embebidos
+   start Ejercicio_3.8_Proyecto_Ciencia_Datos_Mercadona_Miguel_Jeric_.pbix
+   
+   # Opción B: Plantilla sin datos (requiere configurar ruta CSV)
+   start Ejercicio_3.8_Proyecto_Ciencia_Datos_Mercadona_Miguel_Jeric_.pbit
+   ```
+
+5. **Si usa la plantilla (.pbit)**: Al abrir, Power BI solicitará la ruta del archivo `products_macro.csv`. Indique la ubicación local del dataset (ej. `C:\Datos\Mercadona\products_macro.csv` o `~/Data/products_macro.csv`).
+
+6. **Actualizar fuente de datos** (si edita la ETL en Power Query):
+   ```powerquery
+   // Power Query → Editor avanzado → Modificar parámetro:
+   Source = Csv.Document(File.Contents("C:/Datos/Mercadona/products_macro.csv"),[Delimiter=",", Encoding=65001])
+   ```
+
+## 🚀 Uso
+
+### Navegación del Dashboard
+- **Página 1 - Visión General**: KPIs superiores (Total Productos, Precio Medio, Nº Categorías), gráfico barras Top 10 categorías, gráfico anillos distribución volumen.
+- **Página 2 - Detalle y Análisis**: Tabla interactiva con imágenes, filtros avanzados, gráficos de tendencias.
+
+### Interacciones Clave
+```text
+# Filtrar por categoría
+Click en barra del gráfico "Top 10 Categorías" → Filtra KPIs y gráfico de anillos
+
+# Ver detalle de producto
+Tabla Página 2 → Scroll horizontal → Imagen renderizada + datos completos
+
+# Análisis promocional
+Slicer "En_Promocion" = "Sí" → Actualiza % Productos Destacados y Precio Medio
+
+# Tooltip enriquecido
+Hover sobre producto en tabla → Muestra subtitle, categoría, descuento
+```
+
+### Ejemplo de medida DAX incluida
+```dax
+// Medida: % Productos Destacados
+% Productos Destacados = 
+DIVIDE(
+    CALCULATE(COUNTROWS(products), products[En_Promocion] = "Sí"), 
+    COUNTROWS(products)
+)
+```
+
+### Ejemplo de transformación Power Query (M)
+```powerquery
+// Paso: Creación de columna condicional En_Promocion
+= Table.AddColumn(#"Tipo cambiado", "En_Promocion", each if [discount_price] <> null then "Sí" else "No")
+```
+
+## 📁 Estructura del proyecto
+```text
+.
+├── README.md                                                                    # Documentación principal
+├── MANUAL_TECNICO.md                                                            # Manual técnico detallado
+├── LICENSE                                                                       # Licencia GPL-3.0
+├── Ejercicio_3.8_Proyecto_Ciencia_Datos_Mercadona_Miguel_Jeric_.pbix            # Reporte completo con datos embebidos
+├── Ejercicio_3.8_Proyecto_Ciencia_Datos_Mercadona_Miguel_Jeric_.pbit            # Plantilla sin datos (para nuevas fuentes)
+├── products_macro.csv                                                            # Dataset origen (CSV UTF-8)
+└── docs/
+    └── Analisis_Catalogo_Mercadona_PowerBI_Miguel_Jerico.md                      # Análisis técnico y conclusiones
+```
+
+## 🛠️ Tecnologías
+
+| Herramienta | Versión/Detalle | Uso en el proyecto |
+| :--- | :--- | :--- |
+| **Microsoft Power BI Desktop** | Última versión estable | Plataforma principal de BI para modelado, DAX y visualización. |
+| **Power Query (Lenguaje M)** | Integrado en Power BI | Capa ETL: lectura CSV, limpieza regional, tipado de columnas, columna condicional `En_Promocion`. |
+| **DAX (Data Analysis Expressions)** | Integrado en Power BI | Medidas calculadas: `Precio Medio del Catálogo`, `Descuento Medio`, `% Productos Destacados`, `Total Productos`. |
+| **VertiPaq Engine** | Motor interno de Power BI | Compresión y almacenamiento en columna del modelo semántico (tabla única `products`). |
+| **CSV (UTF-8)** | Encoding 65001 | Formato del dataset origen `products_macro.csv`. |
+| **Git** | 2.x+ | Control de versiones del proyecto. |
+| **winget** | Windows Package Manager | Instalación de Power BI Desktop en Windows. |
+| **Markdown** | Estándar | Documentación técnica complementaria (`docs/`). |
+
+## 📚 Contexto formativo o motivación del proyecto
+Este proyecto se enmarca en el **Ejercicio 3.8** de un programa formativo de Ciencia de Datos, donde el reto propuesto consistía en construir un cuadro de mando profesional partiendo exclusivamente de un dataset crudo (`products_macro.csv`) en formato anglosajón. La motivación principal es demostrar la aplicación práctica de las tres fases clave de un proyecto de Business Intelligence:
+
+1. **ETL con Power Query**: abordar problemas reales de encoding, separadores decimales y columnas sin valor analítico.
+2. **Modelado semántico**: entender cuándo un esquema de tabla única es suficiente (catálogo estático sin hechos transaccionales) y cómo optimizar el peso del modelo.
+3. **Capa analítica DAX + Visualización**: traducir preguntas de negocio (% promociones, precio medio, concentración por categorías) en medidas DAX eficientes y visualizaciones accesibles.
+
+Adicionalmente, se hace especial énfasis en **UI/UX y accesibilidad**: uso de paletas de alto contraste, etiquetas con texto (no solo color) y categorización de URLs como Image URL para renderizado dinámico. Estos aspectos suelen ser los grandes olvidados en proyectos BI académicos, pero resultan críticos en entornos profesionales.
 
 ---
 
-### 🚀 Áreas de Enfoque
-
-*   **📊 Business Intelligence & Analítica Visual:** Modelado de datos (ETL), creación de métricas avanzadas en DAX y diseño de dashboards interactivos que transforman datos en decisiones en Power BI y Google Data Studio.
-*   **⚙️ Automatización de Procesos (No-Code/Low-Code):** Construcción de flujos automatizados que integran APIs, procesamiento de lenguaje natural y herramientas de mensajería (Telegram, Google Sheets, Make.com).
-*   **🤖 Inteligencia Artificial & Agentes:** Implementación de asistentes virtuales interactivos y chatbots informativos personalizados utilizando LLMs como Gemini y Groq.
-*   **💻 Desarrollo Full-Stack Moderno:** Creación de plataformas educativas e interfaces con arquitecturas modernas basadas en React y servicios en la nube.
-*   **🔐 Gobernanza y Cumplimiento:** Análisis del marco normativo (RGPD, LOPDGDD y AI Act) aplicado al despliegue de soluciones tecnológicas seguras y éticas.
-
----
-
-### 🛠️ Stack Tecnológico
-
-#### **📈 Data & Business Intelligence**
-<div align="left">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-#### **🌐 Desarrollo Web & Cloud**
-<div align="left">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
-
-#### **🔄 Automatización & IA Generativa**
-<div align="left">
-
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-</div>
-
----
-
-### 📂 Proyectos Destacados
-
-Mi portfolio está organizado en diferentes categorías clave que reflejan mi ecosistema de aprendizaje y aplicación técnica:
-
-| Categoría | Proyecto | Descripción | Stack Principal |
-| :--- | :--- | :--- | :--- |
-| **Business Intelligence** | 📊 [urban-coffee-pbi](https://github.com/migueljerico/powerbi-dashboard-urban-coffee) | Dashboard analítico interactivo con procesos ETL de limpieza y modelado dimensional. | Power BI, DAX |
-| **Business Intelligence** | 📈 [urban-coffee-studio](https://github.com/migueljerico/data-studio-dashboard-urban-coffee) | Réplica analítica avanzada orientada a la web para toma de decisiones corporativas. | Google Data Studio |
-| **Automatización & IA** | 🤖 [automatizacion-noticias](https://github.com/migueljerico/automatizacion-noticias-make) | Pipeline de curación de contenidos IA con aprobación en Sheets y publicación en Telegram. | Make.com, Telegram API |
-| **Inteligencia Artificial** | 💬 [zgz-chatbot](https://github.com/migueljerico/zgz-info-chatbot) | Asistente conversacional especializado en ofrecer información local sobre Zaragoza. | Python, Dialogflow / NLP |
-| **Desarrollo Web / Cloud** | 🎓 [smart-learn-360](https://github.com/migueljerico/estudio-360-smart-learn) | Plataforma de aprendizaje con renderizado optimizado y backend escalable. | React 19, TanStack, Supabase |
-| **Asistentes & Cloud** | 🧠 [github-ai-assistant](https://github.com/migueljerico/github-ai-assistant) | Asistente de código con soporte multi-proveedor desplegado de forma contenerizada. | Groq, Gemini, Cloud Run, OAuth |
-| **Investigación & Cumplimiento** | 📘 [notebooklm-ia](https://github.com/migueljerico/notebooklm-ia-generativa) | Análisis y síntesis de conocimiento complejo utilizando tecnologías de IA Generativa. | NotebookLM |
-| **Investigación & Cumplimiento** | 🔐 [manual-ia-rgpd](https://github.com/migueljerico/manual-ia-rgpd-ai-act) | Guía práctica de cumplimiento normativo europeo aplicado a la ciberseguridad corporativa. | RGPD, AI Act, Compliance |
-
-> 💡 *(Explora la lista completa de mis contribuciones en mi [perfil de repositorios](https://github.com/migueljerico?tab=repositories))*
-
----
-
-### ⚙️ Instalación y Uso Local
-
-Para experimentar de manera local con cualquiera de los proyectos basados en código:
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone https://github.com/migueljerico/NOMBRE-DEL-PROYECTO.git
-    ```
-2.  **Acceder al directorio del proyecto:**
-    ```bash
-    cd NOMBRE-DEL-PROYECTO
-    ```
-3.  **Instalar dependencias** (para proyectos basados en Node.js o Python):
-    ```bash
-    # Si es Node.js
-    npm install
-    
-    # Si es Python (creando entorno virtual recomendado)
-    python -m venv venv
-    source venv/bin/activate  # En Windows: venv\Scripts\activate
-    pip install -r requirements.txt
-    ```
-4.  **Ejecución y configuración:** Consulta el archivo `README.md` específico de cada repositorio para obtener las credenciales de prueba, variables de entorno requeridas (`.env`) y comandos de inicio.
-
-> ⚠️ **Nota:** Los proyectos basados en Power BI, Google Data Studio o Make.com no requieren instalación local; se ejecutan directamente desde sus respectivas plataformas cloud.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de Miguel en GitHub" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados por Miguel" />
-
-</div>
-
----
-
-### 📫 Contacto
-
-¿Interesado en colaborar o conversar sobre un proyecto? No dudes en conectar conmigo:
-
-- 💼 **LinkedIn:** [miguel-jericó-díaz](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197)
-- 🌐 **Portfolio:** [jerico-data-flow.base44.app](https://jerico-data-flow.base44.app/)
-- 🐙 **GitHub:** [@migueljerico](https://github.com/migueljerico)
-
----
-
-<div align="center">
-
-*Desde Zaragoza, construyendo mi camino hacia el Data & la IA — un dashboard, un modelo y un commit a la vez.* 🚀
-
-</div>
+<p align="center">Creado por @migueljerico y documentado por Ollama Cloud (MiniMax M3) · 2026</p>
