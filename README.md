@@ -86,6 +86,7 @@ He seleccionado los proyectos que mejor demuestran mis habilidades en **análisi
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de Miguel en GitHub" />
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados por Miguel" />
 
 </div>
