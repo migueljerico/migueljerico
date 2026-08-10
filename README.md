@@ -85,12 +85,25 @@ He seleccionado los proyectos que mejor demuestran mis habilidades en **análisi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migueljerico&show_icons=true&theme=dark&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de Miguel en GitHub" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados por Miguel" />
 
 </div>
 
 ---
 
-### 📬 ¿Hablamos?
+### 📫 Contacto
 
-Si buscas a alguien con visión estratégica, experiencia liderando equipos y una nueva pasión por los datos, ¡estaré encantado de conectar! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197) o escribirme a través de mi [portafolio](https://jerico-data-flow.base44.app/).
+¿Interesado en colaborar o conversar sobre un proyecto? No dudes en conectar conmigo:
+
+- 💼 **LinkedIn:** [miguel-jericó-díaz](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197)
+- 🌐 **Portfolio:** [jerico-data-flow.base44.app](https://jerico-data-flow.base44.app/)
+- 🐙 **GitHub:** [@migueljerico](https://github.com/migueljerico)
+
+---
+
+<div align="center">
+
+*Desde Zaragoza, construyendo mi camino hacia el Data & la IA — un dashboard, un modelo y un commit a la vez.* 🚀
+
+</div>
