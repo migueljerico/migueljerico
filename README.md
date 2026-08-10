@@ -18,7 +18,7 @@ Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo
 
 Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación avanzada en Big Data, Power BI, Python, R e IA Generativa con el desarrollo de proyectos reales y prácticos que comparto en este espacio.
 
-> 🔭 **Mi enfoque actual:** Diseño de dashboards analíticos de alto impacto en Power BI, desarrollo de automatizaciones inteligentes con IA para optimización de procesos y la consolidación de un portfolio técnico robusto que respalde mi transición profesional.
+> 🔭 **Mi objetivo actual:** Conseguir un rol como **Data Analyst / BI Developer** donde pueda aplicar mi visión estratégica y mis nuevas habilidades técnicas para convertir datos en decisiones de negocio accionables.
 
 ---
 
@@ -67,74 +67,30 @@ Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e I
 
 ### 📂 Proyectos Destacados
 
-Mi portfolio está organizado en diferentes categorías clave que reflejan mi ecosistema de aprendizaje y aplicación técnica:
+He seleccionado los proyectos que mejor demuestran mis habilidades en **análisis de datos, automatización e IA**, priorizando los que tienen un impacto directo en la toma de decisiones empresariales:
 
-| Categoría | Proyecto | Descripción | Stack Principal |
+| Categoría | Proyecto | ¿Por qué destaco este proyecto? | Stack Principal |
 | :--- | :--- | :--- | :--- |
-| **Business Intelligence** | 📊 [urban-coffee-pbi](https://github.com/migueljerico/powerbi-dashboard-urban-coffee) | Dashboard analítico interactivo con procesos ETL de limpieza y modelado dimensional. | Power BI, DAX |
-| **Business Intelligence** | 📈 [urban-coffee-studio](https://github.com/migueljerico/data-studio-dashboard-urban-coffee) | Réplica analítica avanzada orientada a la web para toma de decisiones corporativas. | Google Data Studio |
-| **Automatización & IA** | 🤖 [automatizacion-noticias](https://github.com/migueljerico/automatizacion-noticias-make) | Pipeline de curación de contenidos IA con aprobación en Sheets y publicación en Telegram. | Make.com, Telegram API |
-| **Inteligencia Artificial** | 💬 [zgz-chatbot](https://github.com/migueljerico/zgz-info-chatbot) | Asistente conversacional especializado en ofrecer información local sobre Zaragoza. | Python, Dialogflow / NLP |
-| **Desarrollo Web / Cloud** | 🎓 [smart-learn-360](https://github.com/migueljerico/estudio-360-smart-learn) | Plataforma de aprendizaje con renderizado optimizado y backend escalable. | React 19, TanStack, Supabase |
-| **Asistentes & Cloud** | 🧠 [github-ai-assistant](https://github.com/migueljerico/github-ai-assistant) | Asistente de código con soporte multi-proveedor desplegado de forma contenerizada. | Groq, Gemini, Cloud Run, OAuth |
-| **Investigación & Cumplimiento** | 📘 [notebooklm-ia](https://github.com/migueljerico/notebooklm-ia-generativa) | Análisis y síntesis de conocimiento complejo utilizando tecnologías de IA Generativa. | NotebookLM |
-| **Investigación & Cumplimiento** | 🔐 [manual-ia-rgpd](https://github.com/migueljerico/manual-ia-rgpd-ai-act) | Guía práctica de cumplimiento normativo europeo aplicado a la ciberseguridad corporativa. | RGPD, AI Act, Compliance |
-
-> 💡 *(Explora la lista completa de mis contribuciones en mi [perfil de repositorios](https://github.com/migueljerico?tab=repositories))*
+| **Inteligencia Artificial** | 🧠 [github-ai-assistant](https://github.com/migueljerico/github-ai-assistant) | Mi proyecto más completo: un asistente de código multi-proveedor desplegado en la nube. Demuestra mi capacidad para integrar LLMs (Groq, Gemini) en arquitecturas reales y contenerizadas. | Groq, Gemini, Cloud Run, OAuth |
+| **Business Intelligence** | 📊 [urban-coffee-pbi](https://github.com/migueljerico/powerbi-dashboard-urban-coffee) | El corazón de mi transición a BI. Un dashboard completo con procesos ETL, modelado dimensional y métricas DAX avanzadas. Perfecto para mostrar mi nivel en Power BI. | Power BI, DAX |
+| **Automatización & IA** | 🤖 [automatizacion-noticias](https://github.com/migueljerico/automatizacion-noticias-make) | Un pipeline real de curación de contenidos con IA. Muestra cómo automatizar flujos de trabajo complejos integrando APIs, aprobación humana y publicación automática. | Make.com, Telegram API |
+| **Business Intelligence** | 📈 [urban-coffee-studio](https://github.com/migueljerico/data-studio-dashboard-urban-coffee) | La versión web de mi dashboard de BI. Demuestra que domino ambas herramientas líderes del mercado (Power BI y Google Data Studio). | Google Data Studio |
+| **Inteligencia Artificial** | 💬 [zgz-chatbot](https://github.com/migueljerico/zgz-info-chatbot) | Un asistente conversacional especializado en Zaragoza. Refleja mi capacidad para construir soluciones de NLP aplicadas a un caso de uso concreto. | Python, Dialogflow / NLP |
+| **Investigación & Cumplimiento** | 📘 [notebooklm-ia](https://github.com/migueljerico/notebooklm-ia-generativa) | Análisis de conocimiento complejo con IA Generativa. Demuestra que también sé investigar y documentar el lado ético y de gobernanza de la IA (RGPD, AI Act). | NotebookLM |
+| **Desarrollo Web / Cloud** | 🎓 [smart-learn-360](https://github.com/migueljerico/estudio-360-smart-learn) | Mi proyecto full-stack más avanzado. Lo incluyo para mostrar que también tengo una base sólida en desarrollo web moderno, aunque no sea mi foco principal. | React 19, TanStack, Supabase |
 
 ---
 
-### ⚙️ Instalación y Uso Local
-
-Para experimentar de manera local con cualquiera de los proyectos basados en código:
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone https://github.com/migueljerico/NOMBRE-DEL-PROYECTO.git
-    ```
-2.  **Acceder al directorio del proyecto:**
-    ```bash
-    cd NOMBRE-DEL-PROYECTO
-    ```
-3.  **Instalar dependencias** (para proyectos basados en Node.js o Python):
-    ```bash
-    # Si es Node.js
-    npm install
-    
-    # Si es Python (creando entorno virtual recomendado)
-    python -m venv venv
-    source venv/bin/activate  # En Windows: venv\Scripts\activate
-    pip install -r requirements.txt
-    ```
-4.  **Ejecución y configuración:** Consulta el archivo `README.md` específico de cada repositorio para obtener las credenciales de prueba, variables de entorno requeridas (`.env`) y comandos de inicio.
-
-> ⚠️ **Nota:** Los proyectos basados en Power BI, Google Data Studio o Make.com no requieren instalación local; se ejecutan directamente desde sus respectivas plataformas cloud.
-
----
-
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas de mi perfil
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=migueljerico&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de Miguel en GitHub" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=migueljerico&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados por Miguel" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migueljerico&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-### 📫 Contacto
+### 📬 ¿Hablamos?
 
-¿Interesado en colaborar o conversar sobre un proyecto? No dudes en conectar conmigo:
-
-- 💼 **LinkedIn:** [miguel-jericó-díaz](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197)
-- 🌐 **Portfolio:** [jerico-data-flow.base44.app](https://jerico-data-flow.base44.app/)
-- 🐙 **GitHub:** [@migueljerico](https://github.com/migueljerico)
-
----
-
-<div align="center">
-
-*Desde Zaragoza, construyendo mi camino hacia el Data & la IA — un dashboard, un modelo y un commit a la vez.* 🚀
-
-</div>
+Si buscas a alguien con visión estratégica, experiencia liderando equipos y una nueva pasión por los datos, ¡estaré encantado de conectar! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/miguel-jeric%C3%B3-d%C3%ADaz-99b841197) o escribirme a través de mi [portafolio](https://jerico-data-flow.base44.app/).
