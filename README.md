@@ -40,32 +40,43 @@ Recientemente he completado el programa **PRO-IN-TIC – Análisis de Datos e IA
 
 ### 🛠️ Stack Tecnológico
 
-#### **📈 Data & Business Intelligence**
+#### **🤖 IA Aplicada & Automatización**
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+
+</div>
+
+#### **📊 Data & Business Intelligence**
 <div align="left">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-1E3A5F?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
-#### **🌐 Desarrollo Web & Cloud**
+#### **💻 Desarrollo & Prototipado**
 <div align="left">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
-#### **🔄 Automatización & IA Generativa**
+#### **☁️ Cloud, DevOps & Herramientas**
 <div align="left">
 
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -73,17 +84,16 @@ Recientemente he completado el programa **PRO-IN-TIC – Análisis de Datos e IA
 
 ### 📂 Proyectos Destacados
 
-He seleccionado los proyectos que mejor demuestran mis habilidades en **análisis de datos, automatización e IA**, priorizando los que tienen un impacto directo en la toma de decisiones empresariales:
+He seleccionado los proyectos que mejor representan mi evolución y mi enfoque hacia la **IA aplicada, la automatización, el análisis de datos y la creación de soluciones tecnológicas orientadas a problemas empresariales**.
 
-| Categoría | Proyecto | ¿Por qué destaco este proyecto? | Stack Principal |
+| Categoría | Proyecto | ¿Por qué lo destaco? | Stack Principal |
 | :--- | :--- | :--- | :--- |
-| **Inteligencia Artificial** | 🧠 [github-ai-assistant](https://github.com/migueljerico/github-ai-assistant) | Mi proyecto más completo: un asistente de código multi-proveedor desplegado en la nube. Demuestra mi capacidad para integrar LLMs (Groq, Gemini) en arquitecturas reales y contenerizadas. | Groq, Gemini, Cloud Run, OAuth |
-| **Business Intelligence** | 📊 [urban-coffee-pbi](https://github.com/migueljerico/powerbi-dashboard-urban-coffee) | El corazón de mi transición a BI. Un dashboard completo con procesos ETL, modelado dimensional y métricas DAX avanzadas. Perfecto para mostrar mi nivel en Power BI. | Power BI, DAX |
-| **Automatización & IA** | 🤖 [automatizacion-noticias](https://github.com/migueljerico/automatizacion-noticias-make) | Un pipeline real de curación de contenidos con IA. Muestra cómo automatizar flujos de trabajo complejos integrando APIs, aprobación humana y publicación automática. | Make.com, Telegram API |
-| **Business Intelligence** | 📈 [urban-coffee-studio](https://github.com/migueljerico/data-studio-dashboard-urban-coffee) | La versión web de mi dashboard de BI. Demuestra que domino ambas herramientas líderes del mercado (Power BI y Google Data Studio). | Google Data Studio |
-| **Inteligencia Artificial** | 💬 [zgz-chatbot](https://github.com/migueljerico/zgz-info-chatbot) | Un asistente conversacional especializado en Zaragoza. Refleja mi capacidad para construir soluciones de NLP aplicadas a un caso de uso concreto. | Python, Dialogflow / NLP |
-| **Investigación & Cumplimiento** | 📘 [notebooklm-ia](https://github.com/migueljerico/notebooklm-ia-generativa) | Análisis de conocimiento complejo con IA Generativa. Demuestra que también sé investigar y documentar el lado ético y de gobernanza de la IA (RGPD, AI Act). | NotebookLM |
-| **Desarrollo Web / Cloud** | 🎓 [smart-learn-360](https://github.com/migueljerico/estudio-360-smart-learn) | Mi proyecto full-stack más avanzado. Lo incluyo para mostrar que también tengo una base sólida en desarrollo web moderno, aunque no sea mi foco principal. | React 19, TanStack, Supabase |
+| **🤖 IA Aplicada** | 🧠 [GitHub AI Assistant](https://github.com/migueljerico/github-ai-assistant) | Mi proyecto más completo. Un asistente para interactuar con GitHub mediante lenguaje natural, integrando diferentes proveedores de LLM, autenticación, APIs, testing, Docker y despliegue en Cloud Run. Representa mi capacidad para utilizar IA como herramienta para construir soluciones funcionales. | React, TypeScript, Node.js, Gemini, Groq, Docker, Cloud Run |
+| **⚙️ Automatización & IA** | 🤖 [Automatización de Noticias](https://github.com/migueljerico/automatizacion-noticias-make) | Pipeline automatizado para recopilar, procesar, traducir y distribuir contenidos mediante IA, APIs y aprobación humana. Un ejemplo de cómo aplicar automatización para reducir tareas manuales y mejorar procesos. | Make.com, APIs, Telegram, Google Sheets, IA |
+| **📊 Business Intelligence** | 📈 [Urban Coffee – Power BI](https://github.com/migueljerico/powerbi-dashboard-urban-coffee) | Proyecto de análisis empresarial con transformación y modelado de datos, métricas DAX, KPIs y dashboards interactivos orientados a la toma de decisiones. | Power BI, DAX |
+| **💻 Aplicaciones & Cloud** | 🎓 [Estudio 360](https://github.com/migueljerico/estudio-360-smart-learn) | Aplicación educativa funcional que integra frontend, autenticación, base de datos, gestión de usuarios y despliegue. Demuestra mi capacidad para convertir una necesidad en un prototipo de aplicación completo. | React, TypeScript, Supabase, Cloud |
+| **🤖 IA Conversacional** | 💬 [Zgz Info Chatbot](https://github.com/migueljerico/zgz-info-chatbot) | Asistente conversacional especializado en información de Zaragoza. Un ejemplo de aplicación de NLP/IA a un caso de uso concreto y fácilmente comprensible. | Python, Dialogflow, NLP |
+| **📈 Analítica Visual** | 📊 [Urban Coffee – Google Data Studio](https://github.com/migueljerico/data-studio-dashboard-urban-coffee) | Segunda implementación del análisis de Urban Coffee utilizando Google Data Studio. Permite comparar diferentes enfoques de visualización y explotación de los mismos datos. | Google Data Studio |
 
 ---
 
