@@ -26,11 +26,15 @@ Recientemente he completado el programa **PRO-IN-TIC – Análisis de Datos e IA
 
 ### 🚀 Áreas de Enfoque
 
-*   **📊 Business Intelligence & Analítica Visual:** Modelado de datos (ETL), creación de métricas avanzadas en DAX y diseño de dashboards interactivos que transforman datos en decisiones en Power BI y Google Data Studio.
-*   **⚙️ Automatización de Procesos (No-Code/Low-Code):** Construcción de flujos automatizados que integran APIs, procesamiento de lenguaje natural y herramientas de mensajería (Telegram, Google Sheets, Make.com).
-*   **🤖 Inteligencia Artificial & Agentes:** Implementación de asistentes virtuales interactivos y chatbots informativos personalizados utilizando LLMs como Gemini y Groq.
-*   **💻 Desarrollo Full-Stack Moderno:** Creación de plataformas educativas e interfaces con arquitecturas modernas basadas en React y servicios en la nube.
-*   **🔐 Gobernanza y Cumplimiento:** Análisis del marco normativo (RGPD, LOPDGDD y AI Act) aplicado al despliegue de soluciones tecnológicas seguras y éticas.
+* **📊 Business Intelligence & Analítica:** Modelado y transformación de datos, creación de métricas con DAX y diseño de dashboards interactivos en **Power BI y Google Data Studio**, orientados a convertir datos en información útil para la toma de decisiones.
+
+* **⚙️ Automatización de Procesos:** Diseño de flujos **No-Code/Low-Code** que conectan APIs, servicios de datos, herramientas de IA y plataformas como **Make, Telegram y Google Sheets** para automatizar tareas y procesos empresariales.
+
+* **🤖 Inteligencia Artificial Aplicada:** Desarrollo de **asistentes, chatbots y prototipos de aplicaciones con IA**, utilizando LLMs y APIs de proveedores como **Gemini y Groq**, con especial interés en aplicar estas tecnologías a problemas y procesos empresariales.
+
+* **💻 Desarrollo y Prototipado de Aplicaciones:** Creación de aplicaciones y soluciones funcionales utilizando tecnologías como **Python, React, APIs, bases de datos y servicios Cloud**, apoyándome en herramientas de IA para acelerar el desarrollo y la experimentación.
+
+* **🔐 IA Responsable y Gobernanza:** Conocimiento y aplicación práctica de conceptos relacionados con **RGPD, LOPDGDD y AI Act**, considerando aspectos de privacidad, seguridad, cumplimiento y uso responsable de la Inteligencia Artificial.
 
 ---
 
