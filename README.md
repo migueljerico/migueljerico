@@ -16,11 +16,9 @@
 
 Llevo **15 años liderando equipos y operaciones**, desarrollando experiencia en gestión de personas, análisis de resultados, resolución de problemas y toma de decisiones orientadas a negocio. Actualmente estoy incorporando estas capacidades al ámbito de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada**.
 
+**Partiendo de una formación empresarial y sin experiencia previa en programación, durante los últimos meses he desarrollado de forma autodidacta competencias prácticas en programación, IA, automatización, análisis de datos y desarrollo de aplicaciones.**
+
 Recientemente he completado el programa **PRO-IN-TIC – Análisis de Datos e IA**, combinando formación en Big Data, Power BI, Python, R e IA Generativa con el desarrollo de **proyectos prácticos y soluciones tecnológicas** que comparto en este espacio.
-
-🔭 **Mi objetivo:** Aplicar **IA, automatización y análisis de datos** para transformar necesidades empresariales en soluciones tecnológicas prácticas, utilizando la IA como herramienta para prototipar, desarrollar, automatizar y mejorar procesos.
-
-**IA aplicada · Automatización · Power BI · Python · R · APIs · LLMs · GitHub · Cloud**
 
 ---
 
