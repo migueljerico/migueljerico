@@ -18,7 +18,7 @@ Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo
 
 Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación avanzada en Big Data, Power BI, Python, R e IA Generativa con el desarrollo de proyectos reales y prácticos que comparto en este espacio.
 
-> 🔭 **Mi objetivo actual:** Conseguir un rol como **Data Analyst / BI Developer** donde pueda aplicar mi visión estratégica y mis nuevas habilidades técnicas para convertir datos en decisiones de negocio accionables.
+> 🔭 **Mi objetivo actual:** Aplicar IA, automatización y análisis de datos para construir soluciones tecnológicas que resuelvan problemas empresariales.
 
 ---
 
