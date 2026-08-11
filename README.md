@@ -12,13 +12,15 @@
 
 ---
 
-### 📝 Sobre mí
+### Sobre mí
 
-Llevo **15 años** liderando equipos y operaciones, y ahora estoy reconvirtiendo esa sólida experiencia en gestión de personas, resolución de problemas complejos y toma de decisiones estratégicas hacia el mundo de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada al negocio**.
+Llevo **15 años liderando equipos y operaciones**, desarrollando experiencia en gestión de personas, análisis de resultados, resolución de problemas y toma de decisiones orientadas a negocio. Actualmente estoy incorporando estas capacidades al ámbito de **Data Analytics, Business Intelligence e Inteligencia Artificial aplicada**.
 
-Recientemente, he completado el programa **PRO-IN-TIC – Análisis de Datos e IA**, donde he combinado formación avanzada en Big Data, Power BI, Python, R e IA Generativa con el desarrollo de proyectos reales y prácticos que comparto en este espacio.
+Recientemente he completado el programa **PRO-IN-TIC – Análisis de Datos e IA**, combinando formación en Big Data, Power BI, Python, R e IA Generativa con el desarrollo de **proyectos prácticos y soluciones tecnológicas** que comparto en este espacio.
 
-> 🔭 **Mi objetivo actual:** Aplicar IA, automatización y análisis de datos para construir soluciones tecnológicas que resuelvan problemas empresariales.
+🔭 **Mi objetivo:** Aplicar **IA, automatización y análisis de datos** para transformar necesidades empresariales en soluciones tecnológicas prácticas, utilizando la IA como herramienta para prototipar, desarrollar, automatizar y mejorar procesos.
+
+**IA aplicada · Automatización · Power BI · Python · R · APIs · LLMs · GitHub · Cloud**
 
 ---
 
